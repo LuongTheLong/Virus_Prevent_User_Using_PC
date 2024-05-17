@@ -35,5 +35,7 @@
         }
 
         #endregion
+
+        private Button button1;
     }
 }
